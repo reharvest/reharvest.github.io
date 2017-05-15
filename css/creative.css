@@ -167,6 +167,16 @@ header {
   min-height: 100%;
   background-position: center; 
 } 
+ .page-contact{
+  background-image: url('../img/contact.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  min-width: 100%;
+  min-height: 100%;
+  background-position: center; 
+} 
  .page-partners{
   background-image: url('../img/floor.jpg');
   -webkit-background-size: cover;
